@@ -34,47 +34,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Portfolio
-
-<div align="center">
-  <a href="https://saskoue.fr">
-    <img src="https://img.shields.io/badge/🔗_saskoue.fr-Portfolio_Personnel-5865F2?style=for-the-badge" alt="Portfolio" />
-  </a>
-  
-  <table>
-    <tr>
-      <td>
-        <a href="https://saskoue.fr">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Projets%20Web&fontSize=40&animation=twinkling" alt="Projets Web" width="100%" />
-        </a>
-      </td>
-      <td>
-        <a href="https://saskoue.fr">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=UI/UX%20Design&fontSize=40&animation=twinkling" alt="UI/UX Design" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://saskoue.fr">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Applications%20Mobiles&fontSize=40&animation=twinkling" alt="Applications Mobiles" width="100%" />
-        </a>
-      </td>
-      <td>
-        <a href="https://saskoue.fr">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=DevOps&fontSize=40&animation=twinkling" alt="DevOps" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <p><i>Visitez mon portfolio pour découvrir mes projets, compétences et réalisations en détail !</i></p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Stack technique
 
 <div align="center">
