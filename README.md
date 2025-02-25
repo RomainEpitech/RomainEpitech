@@ -4,7 +4,7 @@
 
 Développeur full-stack bilingue 🇫🇷 🇬🇧 de 21 ans passionné par la création d'applications innovantes et performantes. Initialement formé au développement de jeux vidéo (C, C++), j'ai évolué vers le développement web grâce à ma formation à Epitech.
 
-- 🔭 Je travaille actuellement sur [Votre projet actuel]
+- 🔭 Je travaille actuellement sur [<a href="https://github.com/RomainEpitech/Orchestra"/>Orchestra</a>]
 - 🌱 J'apprends constamment de nouvelles technologies
 - 💬 N'hésitez pas à me contacter pour discuter de projets ou collaborations
 
