@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/romain-farinacci-046b252b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:romain.farinacc@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/RomainEpitech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://saskoue.fr"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=RomainEpitech&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -26,7 +27,49 @@
   <li>🌱 J'apprends constamment <b>de nouvelles technologies DevOps</b></li>
   <li>💬 N'hésitez pas à me contacter pour <b>discuter de projets ou collaborations</b></li>
   <li>⚡ Fun fact: <b>Je détestais le web au début</b></li>
+  <li>🌐 Découvrez mon travail sur <a href="https://saskoue.fr"><b>saskoue.fr</b></a></li>
 </ul>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Portfolio
+
+<div align="center">
+  <a href="https://saskoue.fr">
+    <img src="https://img.shields.io/badge/🔗_saskoue.fr-Portfolio_Personnel-5865F2?style=for-the-badge" alt="Portfolio" />
+  </a>
+  
+  <table>
+    <tr>
+      <td>
+        <a href="https://saskoue.fr">
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Projets%20Web&fontSize=40&animation=twinkling" alt="Projets Web" width="100%" />
+        </a>
+      </td>
+      <td>
+        <a href="https://saskoue.fr">
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=UI/UX%20Design&fontSize=40&animation=twinkling" alt="UI/UX Design" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://saskoue.fr">
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Applications%20Mobiles&fontSize=40&animation=twinkling" alt="Applications Mobiles" width="100%" />
+        </a>
+      </td>
+      <td>
+        <a href="https://saskoue.fr">
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=DevOps&fontSize=40&animation=twinkling" alt="DevOps" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p><i>Visitez mon portfolio pour découvrir mes projets, compétences et réalisations en détail !</i></p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -48,8 +91,6 @@
   <a href="#"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
 </p>
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">
 
 ### 🗄️ Base de données & DevOps
   
