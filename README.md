@@ -60,6 +60,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
+</div>
+
 ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="40"> Projets phares
 
 <div align="center">
