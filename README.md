@@ -66,6 +66,22 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 </div>
 
+## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="40"> Projets phares
+
+<div align="center">
+  <a href="https://github.com/RomainEpitech/Orchestra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomainEpitech&repo=Orchestra&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+  <a href="https://github.com/RomainEpitech/Horizon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomainEpitech&repo=Horizon&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Statistiques GitHub
 
 <div align="center">
@@ -87,22 +103,6 @@
 <a href="https://github.com/RomainEpitech/github-readme-activity-graph">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RomainEpitech&theme=tokyo-night&hide_border=true&radius=8&bg_color=0D1117" />
 </a>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="40"> Projets phares
-
-<div align="center">
-  <a href="https://github.com/RomainEpitech/Orchestra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomainEpitech&repo=Orchestra&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-  <a href="https://github.com/RomainEpitech/Horizon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomainEpitech&repo=Horizon&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
