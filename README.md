@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Saskoue&fontSize=90&fontAlignY=32&animation=fadeIn&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6272a4,70a5fd&height=180&section=header&text=Saskoue&fontSize=90&fontAlignY=32&animation=fadeIn&fontColor=ffffff" />
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&color=ff71f7&lines=Bonjour%2C+je+suis+Saskoue+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack;Game+Dev+%E2%86%92+Web+Dev;Bilingual+FR%2FEN+Developer)](https://git.io/typing-svg)
 
@@ -12,12 +12,10 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> À propos de moi
-
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p align="left">
   Développeur full-stack bilingue 🇫🇷 🇬🇧 de 21 ans passionné par la création d'applications innovantes et performantes. Initialement formé au développement de jeux vidéo (C, C++), j'ai évolué vers le développement web grâce à ma formation à Epitech.
@@ -31,7 +29,7 @@
 </ul>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Stack technique
@@ -65,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Statistiques GitHub
@@ -75,7 +73,6 @@
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=RomainEpitech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomainEpitech&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainEpitech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
@@ -92,7 +89,7 @@
 </a>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="40"> Projets phares
@@ -108,17 +105,13 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </div>
 
 <div align="center">
-  <img alt="Snake Game" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4,70a5fd&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
